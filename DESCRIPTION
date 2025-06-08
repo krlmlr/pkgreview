@@ -6,7 +6,7 @@ Authors@R:
     person("Kirill", "Müller", , "kirill@cynkra.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-1416-3412"))
 Description: A single function that clones and opens another CRAN package in the IDE.
-License: MIT
+License: MIT + file LICENSE
 URL: https://github.com/krlmlr/pkgreview, https://krlmlr.github.io/pkgreview
 BugReports: https://github.com/krlmlr/pkgreview/issues
 Encoding: UTF-8
