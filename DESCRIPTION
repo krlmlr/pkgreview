@@ -1,14 +1,14 @@
 Package: pkgreview
-Title: What the Package Does (One Line, Title Case)
+Title: Tools for Reviewing Other CRAN packages
 Version: 0.0.0.9000
 Date: 2025-06-08
 Authors@R: 
     person("Kirill", "Müller", , "kirill@cynkra.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-1416-3412"))
-Description: What the package does (one paragraph).
+Description: A single function that clones and opens another CRAN package in the IDE.
 License: MIT
-URL: https://github.com/krlmlr/tibble, https://krlmlr.github.io/tibble
-BugReports: https://github.com/krlmlr/tibble/issues
+URL: https://github.com/krlmlr/pkgreview, https://krlmlr.github.io/pkgreview
+BugReports: https://github.com/krlmlr/pkgreview/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2.9000
