@@ -1,0 +1,14 @@
+Package: pkgreview
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Date: 2025-06-08
+Authors@R: 
+    person("Kirill", "Müller", , "kirill@cynkra.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1416-3412"))
+Description: What the package does (one paragraph).
+License: MIT
+URL: https://github.com/krlmlr/tibble, https://krlmlr.github.io/tibble
+BugReports: https://github.com/krlmlr/tibble/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2.9000
