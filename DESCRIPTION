@@ -14,7 +14,9 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2.9000
 Imports: 
     cli,
+    fs,
     glue,
     lifecycle,
+    pak,
     rlang,
     withr

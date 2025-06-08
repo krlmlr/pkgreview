@@ -29,4 +29,6 @@ pkg_review <- function(pkg, pak = TRUE) {
   if (pak) {
     pak::pak(pkg, dependencies = TRUE, upgrade = TRUE, ask = FALSE)
   }
+
+  cli::cli_alert_info("Ready.")
 }
