@@ -6,6 +6,11 @@
 \usage{
 pkg_review(pkg, pak = TRUE)
 }
+\arguments{
+\item{pkg}{The name of the package to review.}
+
+\item{pak}{Logical, whether to install the package dependencies using \code{\link[pak:pak]{pak::pak()}}.}
+}
 \description{
 This function is used to review a CRAN package by cloning it from the CRAN repository,
 rebasing it to the latest version if needed, opening RStudio IDE, and optionally

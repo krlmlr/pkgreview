@@ -6,6 +6,9 @@
 #'
 #' It is in a package because a standalone is not a good fit.
 #'
+#' @param pkg The name of the package to review.
+#' @param pak Logical, whether to install the package dependencies using [pak::pak()].
+#'
 #' @export
 pkg_review <- function(pkg, pak = TRUE) {
   base_path <- "~/git/R/cran"
