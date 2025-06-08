@@ -1,6 +1,6 @@
 Package: pkgreview
 Title: Tools for Reviewing Other CRAN packages
-Version: 0.0.0.9000
+Version: 0.1.0
 Date: 2025-06-08
 Authors@R: 
     person("Kirill", "Müller", , "kirill@cynkra.com", role = c("aut", "cre"),
